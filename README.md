@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: [Telegram](https://t.me/iAmSamadiPour) or [Email](mailto:samadipoor2@gmail.com)
+- 😍 You can find more about me on [my website](samadipour.github.io)
